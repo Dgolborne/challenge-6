@@ -1,0 +1,79 @@
+body {
+	background: #660000;
+	width: 545px;
+}
+
+a {
+	display: block;
+	float: left;
+	width: 109px;
+	height:168px;
+	background: url(../images/cards.png);
+	background-position: -0px -0px;
+	border-radius: 5px 5px;
+}			
+
+.wrapper {
+	width: 0 auto;
+	z-index: 2;
+}
+
+.c1:hover {
+	background-position: -109px -175px; 
+}
+
+.c2:hover {
+	background-position: -1091px -173px; 
+}
+
+.c3:hover {
+	background-position: -221px -520px; 
+}
+
+.c4:hover {
+	background-position: -546px -346px; 
+}
+
+.c5:hover {
+	background-position: -984px -0px; 
+}
+
+.c6:hover {
+	background-position: -328px -0px; 
+}
+
+.c7:hover {
+	background-position: -765px -173px; 
+}
+
+.c11:hover {
+	background-position: -109px -175px; 
+}
+
+.c10:hover {
+	background-position: -1091px -173px; 
+}
+
+.c13:hover {
+	background-position: -221px -520px; 
+}
+
+.c9:hover {
+	background-position: -546px -346px; 
+}
+
+.c12:hover {
+	background-position: -984px -0px; 
+}
+
+.c14:hover {
+	background-position: -328px -0px; 
+}
+
+.c8:hover {
+	background-position: -765px -173px; 
+}
+
+.c15:hover {
+	background-position: -328px -516px; 
+}
