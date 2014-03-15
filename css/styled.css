@@ -1,6 +1,8 @@
 body {
 	background: #660000;
 	width: 545px;
+	margin: 0 auto;
+
 }
 
 a {
@@ -12,11 +14,6 @@ a {
 	background-position: -0px -0px;
 	border-radius: 5px 5px;
 }			
-
-.wrapper {
-	width: 0 auto;
-	z-index: 2;
-}
 
 .c1:hover {
 	background-position: -109px -175px; 
